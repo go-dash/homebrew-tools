@@ -1,4 +1,4 @@
-class Tool < Formula
+class _Gen < Formula
   desc "Command line tool for code generation of GoDash library implementations"
   homepage "https://github.com/go-dash/_gen"
 
